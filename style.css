@@ -1,0 +1,7 @@
+#brightkite-map { border: 1px solid #bcb9b3; }
+#brightkite-map { margin: 0 0 10px 0; padding: 0; }
+#brightkite-map * { display: block; margin: 0; padding: 0; }
+#brightkite-loc { display: block; min-height: 17px; margin: 0 0 5px 0; padding: 0 0 0 24px; background: url('map.png') no-repeat 0px 2px; }
+#brightkite-status { display: block; min-height: 17px; margin: 0 0 1em 0; padding: 0 0 0 24px; background: url('comment.png') no-repeat 0px 4px; }
+#brightkite-status span { color: #444141; }
+r: #444141; }
